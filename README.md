@@ -1,6 +1,3 @@
-Here’s a detailed README for your Text Summarization project:
-
----
 
 # Text Summarization using TF-IDF and Cosine Similarity
 
