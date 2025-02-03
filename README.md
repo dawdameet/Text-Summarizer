@@ -79,6 +79,3 @@ The generated summary could look something like:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-This README should help explain the purpose and usage of the summarization script and provide clear instructions for someone looking to use or contribute to the project!
