@@ -15,6 +15,7 @@ for i in range(len(sntc)):
     similarity = cosine_similarity([sentence_vector], [avgv])[0][0]
     sim.append(similarity)
 rnk = [sentence for _, sentence in sorted(zip(sim, sntc), reverse=True)]
+#k-statements
 tks = 2
 smry = " ".join(rnk[:tks])
 print("Summary:")
